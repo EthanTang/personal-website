@@ -161,9 +161,9 @@ icon:
 ## ADDED BY Yi Tang
 
 # Footer logos
-UoMlogo = "logo/UoMlogo.png"
-Carlsonlogo = "logo/Carlsonlogo.png"
+UoMlogo: "logo/UoMlogo.png"
+Carlsonlogo: "logo/Carlsonlogo.png"
 
 # watermark on the about widget
-watermark = "background/watermark.JPG"
+watermark: "background/watermark.JPG"
 ## /FLIP
