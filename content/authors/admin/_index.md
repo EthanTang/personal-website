@@ -12,8 +12,8 @@ social:
     icon: envelope
     link: mailto:tangx688@umn.edu
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Carlson School of Management, University of Minnesota
+    url: https://carlsonschool.umn.edu/
 education:
   courses:
     - course: PhD in Business Administration (Supply Chain & Operations), Expected 2022
