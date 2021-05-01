@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: /assets/media/tangx688_02-square.jpg
+    image: /assets/media/icon.png
 ---
