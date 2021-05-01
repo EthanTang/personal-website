@@ -30,5 +30,3 @@ user_groups: []
 highlight_name: false
 ---
 I am currently pursuing my PhD in Business Administration at the Department of Supply Chain & Operations, Carlson School of Management, University of Minnesota - Twin Cities.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
