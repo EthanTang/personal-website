@@ -4,7 +4,10 @@ role: PhD Candidate, Supply Chain and Operations
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Healthcare
+  - Healthcare operations
+  - Mental health care disparities
+  - Smartphone mobile apps
+  - Diversity, equity, and inclusion (DEI) in OM
 social:
   - display:
       header: false
@@ -18,7 +21,9 @@ education:
   courses:
     - course: PhD in Business Administration (Supply Chain & Operations), Expected 2022
       institution: Carlson School of Management, University of Minnesota - Twin Cities
-      year: ""
+      year: "Expected 2022"
+      icon: twitter
+      icon_pack: fab
     - course: MS in Statistics, Expected 2022
       institution: School of Statistics, University of Minnesota - Twin Cities
     - course: BE in Industrial Engineering, 2011
