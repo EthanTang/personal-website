@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: Ocean
-day_night: true
-font: ''
+theme: fliptheme
+day_night: false
+font: flipfont
 font_size: L
 
 # SEO
@@ -157,3 +157,13 @@ cms:
 icon:
   pack:
     ai: true
+
+## ADDED BY Yi Tang
+
+# Footer logos
+UoMlogo = "logo/UoMlogo.png"
+Carlsonlogo = "logo/Carlsonlogo.png"
+
+# watermark on the about widget
+watermark = "background/watermark.JPG"
+## /FLIP

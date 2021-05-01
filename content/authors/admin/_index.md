@@ -19,15 +19,17 @@ organizations:
     url: https://carlsonschool.umn.edu/
 education:
   courses:
-    - course: PhD in Business Administration (Supply Chain & Operations), Expected 2022
+    - course: PhD in Business Administration (Supply Chain & Operations)
       institution: Carlson School of Management, University of Minnesota - Twin Cities
       year: "Expected 2022"
       icon: twitter
       icon_pack: fab
-    - course: MS in Statistics, Expected 2022
+    - course: MS in Statistics
       institution: School of Statistics, University of Minnesota - Twin Cities
-    - course: BE in Industrial Engineering, 2011
+      year: "Expected 2022"
+    - course: BE in Industrial Engineering
       institution: Tsinghua University, Beijing, China
+      year: "2011"
 email: tangx688@umn.edu
 superuser: true
 user_groups: []
