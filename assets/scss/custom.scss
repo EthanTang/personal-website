@@ -1,0 +1,77 @@
+////////////////////
+// CRYPTED E-MAIL //
+///////////////////
+
+/* specifically: https://stackoverflow.com/a/41566570 */
+.cryptedmail:after {
+    content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+  }
+  /*
+  USAGE:
+  <a data-name="info" data-domain="test" data-tld="com" href="#" class="cryptedmail" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>
+  */
+  
+  ////////////////////
+  //  FLIP 2018 CSS //
+  ////////////////////
+  
+  
+  /* TEXT STYLES  */
+  
+  .comment{
+    font-family: 'Raleway', sans-serif;
+    color: #AAAAAA;
+    font-size: .8rem;
+    line-height: 130%;
+  }
+  
+  #person-email{
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+  .style-email{
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+  .style-widget-title{
+    color:#DADADA;
+  }
+
+/*  FOR WATERMARK  */
+
+/* to make "white bg" transparent */
+/* note: this means you need an odd number of widgets */
+/* or else #THECONTENT causes a white bar at the bottom */
+.home-section {
+    background-color: transparent;
+    z-index: 1;
+}
+
+#watermark{
+    background-size: 700px 350px;
+    background-repeat:no-repeat;
+    background-position:left top;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    pointer-events: none;
+    height: 100%;
+    width: 100%;
+    text-align: right;
+    opacity: 0.1;
+}
+
+/* Kludge for overscrolling */
+/* Color the background */
+body{
+  background-color:#333333;
+}
+
+#THECONTENT{
+/* div that stores content, gives it a white background */
+/* for aesthetics when "overscrolling" */
+/* see layouts/_default/baseof.html */
+  background-color: #ffffff;
+}
