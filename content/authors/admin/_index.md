@@ -1,7 +1,7 @@
 ---
 title: Yi Tang
 role: PhD Candidate, Supply Chain and Operations
-avatar_filename: square_small.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Healthcare
