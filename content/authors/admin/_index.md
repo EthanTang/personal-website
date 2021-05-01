@@ -1,6 +1,7 @@
 ---
 title: Yi Tang
 role: PhD Candidate, Supply Chain and Operations
+avatar_filename: tangx688_02-square.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
