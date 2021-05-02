@@ -8,12 +8,14 @@ interests:
   - Mental health care disparities
   - Smartphone mobile apps
   - Diversity, equity, and inclusion (DEI) in OM
+  - Econometrics
+  - Natural language processing and predictive modelling
 social:
   - display:
       header: false
     icon_pack: far
     icon: envelope
-    link: mailto:tangx688@umn.edu
+    link: "mailto:{{ $.Site.Params.email1 }}@{{ $.Site.Params.email2 }}.{{ $.Site.Params.email3 }}"
 organizations:
   - name: Carlson School of Management, University of Minnesota
     url: https://carlsonschool.umn.edu/

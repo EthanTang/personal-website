@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: tangx688@umn.edu
-phone: +1 (612)300-2908
+#email: tangx688@umn.edu
+#phone: +1 (612) 300-2908
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -166,4 +166,10 @@ Carlsonlogo: "logo/Carlsonlogo.png"
 
 # watermark on the about widget
 watermark: "background/watermark.JPG"
-## /FLIP
+
+# email
+email1: "tangx688" # using cryptedmail/
+email2: "umn" # using cryptedmail
+email3: "edu" # using cryptedmail
+
+## /Yi Tang
