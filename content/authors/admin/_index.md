@@ -15,7 +15,7 @@ social:
       header: false
     icon_pack: far
     icon: envelope
-    link: "{{< yitangemail >}}"
+    link: mailto:tangx688@umn.edu
 organizations:
   - name: Carlson School of Management, University of Minnesota
     url: https://carlsonschool.umn.edu/
